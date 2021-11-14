@@ -1,0 +1,2 @@
+model_checkpoint_path: "notmnist.ckpt"
+all_model_checkpoint_paths: "notmnist.ckpt"
